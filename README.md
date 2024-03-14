@@ -10,7 +10,7 @@ To get started with this Python development environment, follow these steps:
 Clone the Repository:
 git clone https://github.com/JeffreyOmoakah/python-docker.git
 
-Navigate to the Repository: cd python-docker
+Navigate to the Repository: cd fastapi-image
 
 Build the Docker Image: docker build -t fastapi-image
 
