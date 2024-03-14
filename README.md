@@ -12,9 +12,9 @@ git clone https://github.com/JeffreyOmoakah/python-docker.git
 
 Navigate to the Repository: cd python-docker
 
-Build the Docker Image: docker build -t python-docker
+Build the Docker Image: docker build -t fastapi-image
 
-Run the Docker Container: docker run -it --rm python-docker
+Run the Docker Container: docker run -it --rm fastapi.image
 
 This command will start a Docker container based on the image we just built and drop you into a shell inside the container.
 
