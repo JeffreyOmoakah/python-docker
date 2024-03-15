@@ -1,5 +1,5 @@
 ## Python Development Environment with Docker
-This repository provides a setup for Python development using Docker containers. Docker allows you to isolate your development environment, ensuring consistency across different systems and easing the setup process for new team members.
+This repository provides a setup for Python development using Docker containers. Docker allows you to isolate your development environment, ensuring consistency across different systems and easing the setup process for team members.
 
 ## Prerequisites
 Before you begin, ensure you have Docker installed on your system. You can download and install Docker from the official Docker website.
