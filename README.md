@@ -21,7 +21,7 @@ This command will start a Docker container based on the image we just built and 
 ## Development Workflow
 Once inside the Docker container, you have a Python environment ready for development. You can write your Python scripts, install dependencies using pip, and run your applications.
 
-- Edit Python Files: Use your favorite text editor or integrated development environment (IDE) to modify Python files within the container.
+- Edit Python Files: Use your text editor or integrated development environment (IDE) to modify Python files within the container.
 - Install Dependencies: If your project requires additional Python packages, you can install them using pip. Any packages installed will be isolated within the Docker container.
 Run Python Scripts: Execute your Python scripts directly from the container's command line.
 
